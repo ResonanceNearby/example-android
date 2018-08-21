@@ -87,12 +87,12 @@ public class MainActivity extends AppCompatActivity {
         Resonance.startSearch(payload, new ResonanceListener() {
             @Override
             public void onNearbyFound(Client client) {
-                print("Found: " + client.getPayload());
+                print("Found: \"" + client.getPayload() + "\"");
             }
 
             @Override
             public void onNearbyLost(Client client) {
-                print("Lost: " + client.getPayload());
+                print("Lost: \"" + client.getPayload() + "\"");
             }
 
             @Override
