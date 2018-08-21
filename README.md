@@ -15,6 +15,6 @@ Search is stopped automatically when app is closed.
 You can use this example with example-web and example-ios to see how cross-platform discovery works.
 
 ## Creating your own app
-Detailed documentation, support and your API-key will be available in [Resonance Console](https://console.getresonance.net) after registration.
+Detailed documentation, support and your API-key is available in [Resonance Console](https://console.getresonance.net) after registration.
 
 [Resonance Software](http://www.getresonance.net/)
