@@ -9,7 +9,7 @@ You can try our [compiled apk](https://cdn.getresonance.net/examples/android/res
 ## How this example works
 After launch you will be prompted to input payload. Payload is the data that will be available to all
 nearby devices. "START SEARCH" button starts the search. When nearby device is detected
-line "Found: `another_payload``another_payload``another_payload`" will be printed to screen.
+line "Found: `another_payload`" will be printed to screen.
 Search is stopped automatically when app is closed.
 
 You can use this example with example-web and example-ios to see how cross-platform discovery works.
